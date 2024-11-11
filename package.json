@@ -1,24 +1,23 @@
 {
-  "name": "@evas/vue-help",
+  "name": "@evas-js/helper-methods",
   "version": "1.0.0",
-  "description": "@evas/vue-help",
-  "author": "Egor Vasyakin <egor@evas-php.com>",
-  "license": "CC-BY-4.0",
-  "keywords": [
-    "evas-vue", 
-    "helper"
-  ],
-  "homepage": "https://github.com/evas-js/evas-vue-help#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/evas-js/evas-vue-help.git"
-  },
-  "bugs": {
-    "url": "https://github.com/evas-js/evas-vue-help/issues"
-  },
-  "main": "src/index.js",
+  "description": "Helper Methods Repository",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evas-js/helper-methods.git"
+  },
+  "keywords": [
+    "helper",
+    "getEnv"
+  ],
+  "author": "Egor Vasyakin <egor@evas-php.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/evas-js/helper-methods/issues"
+  },
+  "homepage": "https://github.com/evas-js/helper-methods#readme"
 }
-  
