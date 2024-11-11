@@ -1,11 +1,9 @@
-# helper-methods
-
-Репозиторий вспомогательных методов
+# Репозиторий вспомогательных методов
 
 - Расширение базовых классов и объектов js
 - Получение свойства/свойств .env с учётом сборщика (webpack/vite)
 
 
 ```bash
-npm install @evas/vue-help
+npm install @evas-js/helper-methods
 ```
