@@ -1,0 +1,24 @@
+{
+  "name": "@evas/vue-help",
+  "version": "1.0",
+  "description": "@evas/vue-help",
+  "author": "Egor Vasyakin <egor@evas-php.com>",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "evas-vue", 
+    "helper"
+  ],
+  "homepage": "https://github.com/evas-js/evas-vue-help#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evas-js/evas-vue-help.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evas-js/evas-vue-help/issues"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
+  
