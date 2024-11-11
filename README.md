@@ -1,4 +1,4 @@
-# evas-vue-help
+# helper-methods
 
 Репозиторий вспомогательных методов
 
